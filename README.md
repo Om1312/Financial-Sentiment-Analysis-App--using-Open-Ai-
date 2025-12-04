@@ -1,6 +1,6 @@
  📊 Financial Sentiment Analysis App
 
-<img src="app.png" width="750">
+<img src="app.png" width="950">
 
 
 Analyze stock market news, tweets, and financial statements using OpenAI-powered NLP.
